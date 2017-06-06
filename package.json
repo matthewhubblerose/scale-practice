@@ -1,0 +1,23 @@
+{
+  "name": "scale-practice",
+  "version": "1.0.0",
+  "description": "Scale practice game",
+  "main": "index.js",
+  "dependencies": {
+    "web-midi-api": "^1.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matthewhubblerose/scale-practice.git"
+  },
+  "author": "Matthew Hubble-Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthewhubblerose/scale-practice/issues"
+  },
+  "homepage": "https://github.com/matthewhubblerose/scale-practice#readme"
+}
